@@ -1,1 +1,15 @@
+Morse_Nanohub
+
+It is the most Primitve Example of Numerov package. It can be used to give vibrational information of both ground and excited states of 
+H2 and H2+ and optionally Franck-Condon factors can also be calculated.
+
+In this demo, we used Morse Potential of H2 diatomic system (ground/excited H2+) to calculate vibrational energy levels etc.
+Please visit : https://nanohub.org/tools/morsepotential for Jupyter notebook/supplementary informations (eg. to evaluate Morse Parameters etc.).
+
+Steps:
+1. run GroundNumerov_v1.py
+2. Change Parameters.py file and,
+3. run ExcitedNumerov_v1.py
+4 run FCparameter.py
+5. from the log of FCparameter make PES.dat and plot it by PlotPES.py file.
 
