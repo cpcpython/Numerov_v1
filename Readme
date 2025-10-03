@@ -1,0 +1,5 @@
+This is for generating wavefunction and other relavent data for Partcle in a Box Problem (1D). The files are: 
+ GroundNumerov_v1.py
+ GeneralFunctions.py
+ RootP1Dboxv1.py
+ Parameters.py
